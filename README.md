@@ -1,1 +1,0 @@
-# inf-covid19.github.io
