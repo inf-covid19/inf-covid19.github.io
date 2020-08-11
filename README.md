@@ -1,5 +1,3 @@
-# UFRGS/INF - COVID-19
-
 COVID-19 projects developed by researchers at the Instituto de Informática of the Federal University of Rio Grande do Sul (Brazil). Learn more at [CoronaVis](https://www.ufrgs.br/coronavis/).
 
 ## Datasets
