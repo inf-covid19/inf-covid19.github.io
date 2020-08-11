@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Instituto de Informática UFRGS
 description: Datasets, analysis, and predictions about COVID-19
-
+logo: ./github-repo.png
