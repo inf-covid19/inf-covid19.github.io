@@ -85,20 +85,20 @@ Time series data of confirmed cases and confirmed deaths per Uruguay's divisions
 
 A set of configurable tools around COVID-19 data including: Similarity Explorer, Prediction Visualizer, Trend Visualizer and Chart Editor.
 
-| [Go to application](https://covid19.ufrgs.dev/tools) | [Go to source code](https://github.com/inf-covid19/tools) |
+| [Go to application](https://inf-covid19.github.io/tools) | [Go to source code](https://github.com/inf-covid19/tools) |
 
 ### COVID-19 Dashboard - Brazil
 
 Dashboard with COVID-19 stats in Brazil and its divisions.
 
-| [Go to application](https://covid19.ufrgs.dev/dashboard) | [Go to source code](https://github.com/inf-covid19/dashboard) |
+| [Go to application](https://inf-covid19.github.io/dashboard) | [Go to source code](https://github.com/inf-covid19/dashboard) |
 
 
 ### COVID-19 Dashboard - South America
 
 Dashboard with COVID-19 stats in South America and its divisions.
 
-| [Go to application](https://covid19.ufrgs.dev/south-america) | [Go to source code](https://github.com/inf-covid19/south-america) |
+| [Go to application](https://inf-covid19.github.io/south-america) | [Go to source code](https://github.com/inf-covid19/south-america) |
 
 
 ## Other projects
