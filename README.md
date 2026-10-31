@@ -85,7 +85,7 @@ Time series data of confirmed cases and confirmed deaths per Uruguay's divisions
 
 A set of configurable tools around COVID-19 data including: Similarity Explorer, Prediction Visualizer, Trend Visualizer and Chart Editor.
 
-| [Go to application](https://inf-covid19.github.io/tools) | [Go to source code](https://github.com/inf-covid19/tools) |
+| [Go to application](https://covid19.felipemfp.dev) | [Go to source code](https://github.com/inf-covid19/tools) |
 
 ### COVID-19 Dashboard - Brazil
 
